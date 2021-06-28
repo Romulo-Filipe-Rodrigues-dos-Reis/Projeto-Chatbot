@@ -1,0 +1,19 @@
+{
+  "name": "chatbots-da-dio",
+  "version": "1.0.1",
+  "description": "blábláblá",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "anonimus",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "uuid": "^8.1.0",
+    "youtube-node": "^1.3.3"
+  }
+}
